@@ -1,0 +1,8 @@
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\bin\Debug\W92MEN_EsemenyKezeles.exe.config
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\bin\Debug\W92MEN_EsemenyKezeles.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\bin\Debug\W92MEN_EsemenyKezeles.pdb
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\obj\Debug\W92MEN_EsemenyKezeles.csproj.AssemblyReference.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\obj\Debug\W92MEN_EsemenyKezeles.csproj.SuggestedBindingRedirects.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\obj\Debug\W92MEN_EsemenyKezeles.csproj.CoreCompileInputs.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\obj\Debug\W92MEN_EsemenyKezeles.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\W92MEN_EsemenyKezeles\W92MEN_EsemenyKezeles\obj\Debug\W92MEN_EsemenyKezeles.pdb
